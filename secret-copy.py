@@ -1,0 +1,1 @@
+api_key = "PASTE_YOUR_GEMINI_KEY_HERE"
